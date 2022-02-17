@@ -1,0 +1,84 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css");
+body{
+	color: white;
+}
+.carousel-item{
+	height: 400px !important;
+
+}
+.jumbotron{
+	background: white !important;
+}
+.bi{
+	font-size: 50px;
+}
+.bi-code-slash{
+	color: red;
+}
+.bi-qr-code-scan{color: blue;}
+.bi-badge-cc-fill{color: darkcyan;}
+.icon{
+padding: 50px 0;
+}
+.post{
+	padding: 30px 0;
+}
+.teamwork{
+	padding: 70px 0;
+}
+.title{
+	text-align: center;
+	padding: 40px 0;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;	
+}
+.title hr{
+	border-bottom: 2px solid gray;
+}
+.row-cart{
+	padding-top: 20px;}
+
+.fun{
+width: 100%;
+}
+.collapes{
+	padding: 70px 0;
+}
+.gif{
+	display: flex;
+    justify-content: space-between;
+    width: 85%;
+}
+@media (max-width: 740px) {
+	.gif{
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+		width: 85%;
+	}
+}
+.row-connect{
+	background: #696969;
+	color: white;
+}
+.connect{padding: 30px 0;}
+.connect-icon{
+	font-size: 80px;
+}
+.connect-icon a{
+	padding: 50px;
+	color: white;
+}
+.header{
+	padding: 10px 0;
+	background: #181818;
+	color: white;
+	border-top: 1px solid #fff;
+}
+.footer-top .nav{
+	padding-left: 400px !important;
+}
+.footer-top{
+	background: #696969;
+}
